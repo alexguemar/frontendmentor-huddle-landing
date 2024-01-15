@@ -1,8 +1,8 @@
 <div align="center">
-<h2>🎯 Frontend Mentor - Social proof section solution </h2>
+<h2>🎯 Frontend Mentor | Huddle landing page with single introductory section </h2>
 </div>
 
-This is a solution to the [Social proof section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0).
+This is a solution to the [Huddle landing page with single introductory section](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0).
 
 ## Overview
 
